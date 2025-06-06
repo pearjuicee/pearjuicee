@@ -1,4 +1,4 @@
-## Hellooo 🍐
+## Hello! 🍐
 [LinkedIn](https://linkedin.com/in/shirleydg) | [Website](https://pearjuicee.github.io/shirley-portfolio/)
 
 I'm Shirley, a Computer Science student at McGill University.
